@@ -1,5 +1,5 @@
 1. What does the analogy "AI is the new electricity" refer to?
-:white_check_mark: Similar to electricity starting about 100 years ago, AI is transforming multiple industries.
+- [x] Similar to electricity starting about 100 years ago, AI is transforming multiple industries.
 
 2. Which of these are reasons for Deep learning recently taking off?
 - [x] We have access to a lot more computational power. 
